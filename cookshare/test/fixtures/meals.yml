@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  location: MyString
+  time: 2013-09-07 01:59:03
+  people_limit: 1
+
+two:
+  name: MyString
+  location: MyString
+  time: 2013-09-07 01:59:03
+  people_limit: 1
